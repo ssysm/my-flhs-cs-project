@@ -129,7 +129,7 @@ This is the first paired oral presentation I have ever done. The problem seems v
 
 #### The Code(Q24)
 
-[Technical Paper](assets/q24/PE\ 24\ Solution\ Explain.pdf)
+[Technical Paper](assets/q24/PE24_paper.pdf)
 
 ### Order Managment System(April 2020)
 

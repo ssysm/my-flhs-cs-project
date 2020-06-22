@@ -129,13 +129,13 @@ This is the first paired oral presentation I have ever done. The problem seems v
 
 #### The Code(Q24)
 
-[Technical Paper](assets/q24/PE\ 24\ Solution\ Explain.pdf)
+[Technical Paper](assets/q24/PE/ 24/ Solution/ Explain.pdf)
 
 ### Order Managment System(April 2020)
 
 Code name: OMS
 
-![OMS Screen](assets\oms\splash.png)
+![OMS Screen](assets/oms/splash.png)
 
 #### The Project(OMS)
 
@@ -147,7 +147,7 @@ I learned a lot of how `static` class and method works. That really helped me on
 
 But never the less it was a great project.
 
-![OMS UI](assets\oms\unknown-11.png)
+![OMS UI](assets/oms/unknown-11.png)
 
 #### The Code(OMS)
 
@@ -157,7 +157,7 @@ But never the less it was a great project.
 
 Code name: APR
 
-![APR Start Screen](assets\apr\Unity_2020-06-15_03-18-27.png)
+![APR Start Screen](assets/apr/Unity_2020-06-15_03-18-27.png)
 
 #### The Project(APR)
 
@@ -167,9 +167,9 @@ I was planning to use JMonkeyEngine but the IDE is really hard to use... So I sw
 
 Another interesting while I was doing the stage design is I designed the race rack in Autodesk Inventor.
 
-![APR Car Track](assets\apr\unknown.png)
+![APR Car Track](assets/apr/unknown.png)
 
-![APR Dev](assets\apr\Unity_2020-06-22_02-24-21.png)
+![APR Dev](assets/apr/Unity_2020-06-22_02-24-21.png)
 
 I actually learned a lot of unity and game design in general.
 

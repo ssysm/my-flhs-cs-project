@@ -1,5 +1,22 @@
 # My FLHS Computer Science's Project Collection
 
+## Table of Content
+
+* [Introduction](#introduction)
+* [Second Year(C++)](#second-yearc)
+  * [Wheel of Fortune (Dec 2018)](#wheel-of-fortune-dec-2018)
+  * [Console BattleShip (Feb 2019)](#console-battleship-feb-2019)
+  * [Lyrics(Karaoke) Presenter (Feb 2019)](#lyricskaraoke-presenter-feb-2019)
+  * [Blackjack (April 2019)](#blackjack-april-2019)
+  * [Poker Identification System (May 2019)](#poker-identification-system-may-2019)
+  * [ConsoleRPG (May 2019, Final Project)](#consolerpg-may-2019-final-project)
+* [Third Year(Java/AP CS A)](#third-yearjavaap-cs-a)
+  * [Project Euler Oral Presentation Q29(Sep 2019)](#project-euler-oral-presentation-q29sep-2019)
+  * [Project Euler Oral Presentation Q24(Feb 2020)](#project-euler-oral-presentation-q24feb-2020)
+  * [Order Managment System(April 2020)](#order-managment-systemapril-2020)
+  * [Car Racing Game(AP Racer, Final Project)(June 2020)](#car-racing-gameap-racer-final-projectjune-2020)
+* [The End](#the-end)
+
 ## Introduction
 
 Hi! My name is Shengming Yuan, FLHS Class of 2020. This is the a collection of my software project that I was ~~forced to be~~ done in my computer science class. I also included some of the difficulty and road block I hit.  
@@ -165,6 +182,8 @@ For this project we were assigned to use Processing, but our AP test is already 
 
 I was planning to use JMonkeyEngine but the IDE is really hard to use... So I switched to use Unity with C#.
 
+The initial experience with unity was not good, I have zero idea what I'm looking at, but by following some guide from offical unity forum I quickly got the hang of it.
+
 Another interesting while I was doing the stage design is I designed the race rack in Autodesk Inventor.
 
 ![APR Car Track](assets/apr/unknown.png)
@@ -172,6 +191,8 @@ Another interesting while I was doing the stage design is I designed the race ra
 ![APR Dev](assets/apr/Unity_2020-06-22_02-24-21.png)
 
 I actually learned a lot of unity and game design in general.
+
+Also I think I really abuse the use of `GameObject`.
 
 #### The Code(APR)
 

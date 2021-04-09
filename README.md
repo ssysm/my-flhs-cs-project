@@ -106,7 +106,7 @@ Code name: CRPG
 
 #### The Project(CRPG)
 
-This is one of the hardest, if not the only project I have real struggle to complete. Since I'm a gamer, game design to me is another dimension. I was not able to learn any game engine in time to hand in the project.
+This is one of the hardest, if not the only project I have real struggle to complete. Since I'm **NOT** a gamer, game design to me is another dimension. I was not able to learn any game engine in time to hand in the project.
 
 This is the first project I used Visual Studio(and the last).
 

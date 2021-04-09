@@ -19,7 +19,7 @@
 
 ## Introduction
 
-Hi! My name is Shengming Yuan, FLHS Class of 2020. This is the a collection of my software project that I was ~~forced to be~~ done in my computer science class. I also included some of the difficulty and road block I hit.  
+Hi! My name is [Shengming Yuan](https://github.com/ssysm), FLHS Class of 2020. This is the a collection of my software project that I was ~~forced to be~~ done in my computer science class. I also included some of the difficulty and road block I hit.  
 
 ## Second Year(C++)
 
